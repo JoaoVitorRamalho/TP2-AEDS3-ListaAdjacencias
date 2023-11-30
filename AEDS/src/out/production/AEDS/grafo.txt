@@ -1,0 +1,23 @@
+nao
+10
+0 1 1 Abelha
+1 10 11 Burro
+2 20 40 Cachorro
+3 30 50 Dromendário
+4 40 70 Elefante
+5 50 90 Foca
+6 55 21 Guaxinim
+7 60 32 Hipopotamo
+8 75 45 Iguana
+9 80 53 Jegue
+10
+1 0 50
+2 1 15
+3 2 1
+4 3 90
+5 4 77
+6 5 32
+7 6 62
+8 7 8
+9 0 20
+9 8 44
